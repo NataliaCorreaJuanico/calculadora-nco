@@ -1,4 +1,4 @@
-# ENTREGABLE 3- CALCULADORA FINANCIERA : finTechIY
+# ENTREGABLE 3- CALCULADORA FINANCIERA : nco
 ## Nombre:Natalia Correa
 ## Fecha: 16 octubre 2026
 
